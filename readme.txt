@@ -1,0 +1,1 @@
+create photo stream using three mehtods
